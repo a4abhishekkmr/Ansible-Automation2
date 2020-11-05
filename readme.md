@@ -1,4 +1,4 @@
-#This repository talks about a very basic use case of Ansible#
+#This repository talks about a very basic use case of Ansible
 
 Let us suppose we have a huge office with hundreds of system. Now, we need to start a service (eg httpd) on each PC/Laptop. 
 
