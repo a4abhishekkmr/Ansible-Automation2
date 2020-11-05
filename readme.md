@@ -5,7 +5,7 @@ Let us suppose we have a huge office with hundreds of system. Now, we need to st
 Shall we go to each system and type commands manually?
 Obviously NOT. That's not how REAL ENGINEERS work.
 
-In this repository, I have demonstrated how we can install httpd, transfer req files, and start the httpd service on my target node, without visiting it.
+In this repository, I have demonstrated how we can install httpd, transfer required files, and start the httpd service on my target node, without visiting it.
 
 All the commands are typed on the Control node, and we can see the desired output on the target node.
 
